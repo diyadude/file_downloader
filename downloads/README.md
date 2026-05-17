@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [Docker Desktop Installer](./Docker%20Desktop%20Installer)
 - [ffmpeg-master-latest-linux64-gpl.tar](./ffmpeg-master-latest-linux64-gpl.tar)
 - [ffmpeg-master-latest-linuxarm64-gpl.tar](./ffmpeg-master-latest-linuxarm64-gpl.tar)
 - [geoip2](./geoip2)
